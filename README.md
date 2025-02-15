@@ -5,11 +5,11 @@
     </td>
     <td style="vertical-align: top; padding-left: 20px; border: none !important;">
       <a href="https://tryhackme.com/p/XenonSaint">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/XenonSaint.png?update=1000" alt="TryHackMe Badge" width="200">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/XenonSaint.png?update=1000" alt="TryHackMe Badge" width="250">
       </a>
       <br>
-      <a href="https://www.hackthebox.com/profile/1688350">
-        <img src="https://www.hackthebox.com/badge/image/1688350" alt="HTB Badge" width="200">
+      <a href="https://app.hackthebox.com/profile/1688350">
+        <img src="https://www.hackthebox.com/badge/image/1688350" alt="HTB Badge" width="250">
       </a>
     </td>
   </tr>
