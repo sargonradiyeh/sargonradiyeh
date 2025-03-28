@@ -5,7 +5,7 @@
     </td>
     <td style="vertical-align: top; padding-left: 20px; border: none !important;">
       <a href="https://tryhackme.com/p/XenonSaint">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/XenonSaint.png?update=10110" alt="TryHackMe Badge" width="260">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/XenonSaint.png?update=11110" alt="TryHackMe Badge" width="260">
       </a>
       <br>
       <a href="https://app.hackthebox.com/profile/1688350">
