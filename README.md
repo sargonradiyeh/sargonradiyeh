@@ -9,7 +9,7 @@
       </a>
       <br>
       <a href="https://app.hackthebox.com/profile/1688350">
-        <img src="https://www.hackthebox.com/badge/image/1688350" alt="HTB Badge" width="260">
+        <img src="https://www.hackthebox.com/badge/image/1688350" alt="HTB Badge" width="262">
       </a>
     </td>
   </tr>
